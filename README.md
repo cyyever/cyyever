@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <!--
 ![Leetcode Stats](https://leetcard.jacoblin.cool/cyyever?font=patrick_hand&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
 -->
+[![cyyever's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyyever&count_private=true&show_icons=true)](https://github.com/cyyever)
