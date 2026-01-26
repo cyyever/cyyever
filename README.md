@@ -1,20 +1,21 @@
- 
+## Hi there
 
-<!--
-**cyyever/cyyever** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher and open source contributor on AI.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-![Leetcode Stats](https://leetcard.jacoblin.cool/cyyever?font=patrick_hand&hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyyever)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+### GitHub Stats
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cyyever&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyyever&layout=compact" />
+</a>
+
+### Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/chen-y-08b831220)
