@@ -9,12 +9,9 @@ Researcher and open source contributor on AI.
 
 ### GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cyyever&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyyever&layout=compact" />
-</a>
+![](profile-summary-card-output/default/0-profile-details.svg)
+![](profile-summary-card-output/default/1-repos-per-language.svg)
+![](profile-summary-card-output/default/2-most-commit-language.svg)
 
 ### Connect
 
